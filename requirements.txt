@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+setuptools
+pytest
+faiss-cpu
+structlog
+
+-e.
