@@ -4,5 +4,7 @@ setuptools
 pytest
 faiss-cpu
 structlog
+httpx
+
 
 -e.
